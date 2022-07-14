@@ -1,3 +1,1 @@
-클론한 저장소에서 추가한 파일
-new feautre
-new2
+awesome feature
